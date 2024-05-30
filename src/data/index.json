@@ -1,0 +1,44 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "src": "./img/product-chain-1.png",
+            "title": "Machine Learning: Scikit-learn, Pandas, Numpy, Matplotlib"
+        },
+        {
+            "id": 2,
+            "src": "./img/tag-1.png",
+            "title": "Computer Vision: Pytorch, Tensorflow, Keras, Open CV"
+        },
+        {
+            "id": 3,
+            "src": "./img/feather-pen-1.png",
+            "title": "Python, C/C++, Javascript Programming Languages"
+        },
+        {
+            "id": 4,
+            "src": "./img/feather-pen-2.png",
+            "title": "Data Visualisation: D3.js"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "src": "./img/placeholder-image.png",
+            "title": "Autonomous Soaring of Gliders Using Reinforcement Learning",
+            "description": "This project compared reinforcement learning algorithms (SARSA, Expected SARSA, Q-Learning, and Double Q-Learning) for autonomous glider soaring using thermal energy. A Python Gym environment simulated a point glider, and each algorithm was trained and compared to identify the optimal one. The project demonstrated reinforcement learning's potential for enabling gliders to harness thermal energy and stay aloft, with applications in aerial surveillance, environmental monitoring, and recreational flying."
+        },
+        {
+            "id": 2,
+            "src": "./img/placeholder-image-1.png",
+            "title": "Data Analysis of Indian Elections and Understanding the Importance of Text in Visualizations",
+            "description": "This project analyzed Indian election data from Kaggle using Python and created interactive visualizations with HTML and D3.js to uncover trends and insights. The project also studied the impact of text on visualizations, highlighting the importance of accurate text for clear communication."
+        },
+        {
+            "id": 3,
+            "src": "./img/placeholder-image-2.png",
+            "title": "Video Segmentation",
+            "description": "As a part of my internship at HP Inc. I improved camera drivers for personal systems and developed a video background blur project using deep learning techniques in Python and Keras. This project achieved real-time background blur in live camera streams, separating foreground and background, and demonstrated potential applications in video conferencing and surveillance without the use of any third party application like zoom."
+        }
+    ]
+}
